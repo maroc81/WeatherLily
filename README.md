@@ -40,7 +40,7 @@ Current features include:
     ```
  1. Open the root cloned directory with vscode
  1. Edit appConfig.h and set your WIFI, open weather map API key, zip code, and time zone
- 1. In the bottom toolbar, click "PlatformIO: Build" followed by "PlatformIO: Upload" or use the PlatformIO side bar.
+ 1. Click the PlatformIO sidebar and click "Full Clean", followed by "Build", and finally "Upload".
 
  ## PlatformIO, LVGL, and ESPDIF
 This project is one of the few (maybe only?) that uses PlatformIO with the ESPIDF framework and LVGL for the Lily Pi.
@@ -53,3 +53,4 @@ Resources:
  - LilyGO product webpage: http://www.lilygo.cn/prod_view.aspx?TypeId=50032&Id=1353&FId=t3:50032:3
  - Banggood: https://www.banggood.com/LILYGO-LILY-Pi-ESP32-WiFi-bluetooth-3_5-Inch-Capacitive-Touch-Screen-with-5V-2A-Relay-USB-Expansion-Port-p-1741427.html
  - LilyGO example source: https://github.com/Xinyuan-LilyGO/TTGO_TWatch_Library/tree/master/examples/LilyPi
+ - ESP-IDF: https://docs.espressif.com/projects/esp-idf/en/latest/esp32/

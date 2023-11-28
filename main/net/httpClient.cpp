@@ -102,7 +102,7 @@ esp_err_t httpClientT::HandleEvent(esp_http_client_event_t *evt)
 
     return ESP_OK;
 
-} // end handleEvent()
+} // end HandleEvent()
 
 
 //******************************************************************************
